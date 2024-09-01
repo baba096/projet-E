@@ -1,0 +1,19 @@
+
+.foto{
+    background-image: url(téléchargement\ 33.jpeg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-color: red;
+    background-size: cover;
+}
+.orange  {
+    background-color: orange;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+.btn-envoie{
+
+    margin-left: 65%;
+    margin-top: 3%;
+}
